@@ -7,12 +7,12 @@
 Mobile and Back-End Developer
 
 More about me:
-- :rocket:  &nbsp;I’m currently working on [Questor](http://questor.com.br/)
-- :school:  &nbsp;Computer Science
+- :rocket: &nbsp;&nbsp;I’m currently working on [Questor](http://questor.com.br/)
+- :school: &nbsp;&nbsp;Computer Science
 
 <br/>
 
-<summary>:zap: Languages Used</summary>
+<summary>:zap: &nbsp;&nbsp;Languages Used</summary>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagobuchanelli&layout=compact&bg_color=ffffff&text_color=333333">
 <br/>
