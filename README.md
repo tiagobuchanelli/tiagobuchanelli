@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tiagobuchanelli@gmail.com)](mailto:tiagobuchanelli@gmail.com)
 
 Mobile and Back-End Developer
-
+<br/>
 More about me:
 - :rocket: &nbsp;&nbsp;I’m currently working on [Questor](http://questor.com.br/)
 - :school: &nbsp;&nbsp;Computer Science
