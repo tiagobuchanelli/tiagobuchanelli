@@ -7,7 +7,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tiagobuchanelli&show_icons=true&locale=en&layout=compact" alt="tiagobuchanelli" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tiagobuchanelli&show_icons=true&locale=en" alt="tiagobuchanelli" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tiagobuchanelli&" alt="tiagobuchanelli" /></p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tiagobuchanelli&show_icons=true&locale=en" alt="tiagobuchanelli" /></p>
