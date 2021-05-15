@@ -13,7 +13,8 @@ More about me:
 <br/>
 
 <summary>:zap: &nbsp;&nbsp;Languages Used</summary>
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagobuchanelli&layout=compact&bg_color=ffffff&text_color=333333"></p>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagobuchanelli&layout=compact&bg_color=ffffff&text_color=333333">
 <br/>
 
 
