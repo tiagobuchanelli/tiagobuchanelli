@@ -7,8 +7,8 @@
 Mobile and Back-End Developer
 
 More about me:
-- :rocket:  I’m currently working on [Questor](http://questor.com.br/)
-- :school:  Computer Science
+- :rocket:  &nbsp;I’m currently working on [Questor](http://questor.com.br/)
+- :school:  &nbsp;Computer Science
 
 <br/>
 
