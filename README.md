@@ -20,7 +20,5 @@ More about me:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagobuchanelli&layout=compact&bg_color=ffffff&text_color=333333">
 <br/>
 
-<br/>
-<a href="https://app.daily.dev/tiagobuchanelli"><img src="https://api.daily.dev/devcards/39fcef609131449881bdc798bf0675de.png?r=go0" width="400" alt="Tiago Buchanelli's Dev Card"/></a>
 
 
