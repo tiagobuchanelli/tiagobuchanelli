@@ -12,8 +12,8 @@ Mobile and Back-End Developer
 More about me:
 - :rocket: &nbsp;&nbsp;I’m currently working at [Questor](http://questor.com.br/)
 - :school: &nbsp;&nbsp;Computer Science
-- 💙: C# && Flutter
-- 💻: &nbsp;&nbsp; .NET, Flutter, TypeScript.
+- 💙 &nbsp;&nbsp; C# && Flutter
+- 💻 &nbsp;&nbsp; .NET, Flutter, TypeScript.
 
 
 <br/>
