@@ -9,7 +9,7 @@
 I'm Tiago. I'm a full stack developer:
 - :rocket: &nbsp;&nbsp;I’m currently working at [Questor](http://questor.com.br/)
 - :school: &nbsp;&nbsp;Computer Science
-- 💙 &nbsp;&nbsp; C# and Flutter
+- 💙 &nbsp;&nbsp; C#, Flutter.
 - 💻 &nbsp;&nbsp; .NET, Flutter, TypeScript.
 
 
