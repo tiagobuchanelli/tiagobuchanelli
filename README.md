@@ -7,7 +7,7 @@
 <br/>
 
 I'm Tiago. I'm a full stack developer:
-- :rocket: &nbsp;&nbsp;I’m currently working at [NDD]([http://questor.com.br/](https://ndd.tech/))
+- :rocket: &nbsp;&nbsp;I’m currently working at [NDD]([https://ndd.tech/])
 - :school: &nbsp;&nbsp;Computer Science
 - 💙 &nbsp;&nbsp; C#, Flutter and Angular
 - 💻 &nbsp;&nbsp; .NET, Flutter, TypeScript.
